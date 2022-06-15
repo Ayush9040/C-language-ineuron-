@@ -1,0 +1,42 @@
+Q 1. Why do computers understand only binary language?
+Ans Computers only understand binary language because computer is made up of hardwares and all the hardwares like Ram contain millions of capacitors and capacitors can be in only states first is when it holds the charge and second state is when it does not holds the charge so we as a programmer encodes it and we takes it as when capacitor when hold charge then it is 1 and when capacitor doesnot holds charge than it is 0.
+
+Q 2. What is the full form of IDE?
+Ans Integrated Development Environment. It is a software which provides a programmer all facilities that are required to develop a software on a single screen for example - Code Blocks, NetBeans e.t.c.
+IDE mainly provide three things:
+1. code editior
+2. debugging tools
+3. Build tools
+
+Q 3. What is the difference between a text editor and a code editor?
+Ans The differences are:
+1. Text editior is not as smart as code editior as while we code an code editior it automatically recognise which language we are using and it start giving suggestions accordingly. So programmer nowdays are more comfortable using code editor rather than text editior.
+
+2. Code editior highlights different things with different so it becomes easier for programmer or developer to debug code or go through the code on the other hand text editior doesnot provide such facility. 
+
+3. Example of text editior is Notepad, wordpad e.t.c And Examples of code editior is VS code, Vim e.t.c.
+
+Q 4. What are the steps to develop software using the C language?
+Ans There are mainly two steps involved in making software and they are as follows:
+1. Create a source file 
+2. Build Software 
+
+Q 5. Explore by your own
+a. What is the latest version of C Language?
+Ans. C17 is the most recent standard for the C programming language.
+ 
+ b. Who developed C Language?
+ Ans. Dennis MacAlistair Ritchie was an American computer scientist. He is most well-known for creating the C programming language and, with long-time colleague Ken Thempson.
+
+ c. What is the difference between System and Application Software?
+ Ans. System Software - System Software is the type of software which is the interface between application software and system. 
+Application Software - Application Software is the type of software that runs as  per   user request. It runs on the platform which is provided by system software.
+
+d. How to convert a number from a decimal number system to a binary number system?
+Ans. 1. Write down the number.
+     2. Divide it by 2 and note the remainder.
+     3. Divide the quotient obtained by 2 and note the remainder.
+     4. Repeat the same process till we get 0 as the quotient.
+     5. Write the values of all the remainders starting from the bottom to the top.
+
+     For Example - if the decimal number is (11)₁₀ then its equivalent binary number would be (1011)₂.
