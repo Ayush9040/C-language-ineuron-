@@ -1,0 +1,111 @@
+1. Write  a program to calculate the sum of two numbers.
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int a = 6, b= 4;
+    int c = a + b;
+    printf("Sum of %d and %d is %d",a, b, c);
+    getch();
+}
+
+2. Write a program to calculate the area of a circle.
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int r = 5;
+
+    printf("Area of circle is %f", 3.14*r*r);
+    getch();
+}
+
+3. Write a program to calculate the volume of a Cuboid.
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int l=5;
+    int b = 5;
+    int h = 5;
+
+    printf("Volume of cuboid is %d", l*b*h);
+    getch();
+}
+
+4. Write a program to calculate the simple interest
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int p=75000;
+    int r = 5;
+    int t = 1;
+
+    printf("S.I is %f", (p*r*t)/100.0);
+    getch();
+}
+
+5. Write a program to calculate the area of a rectangle
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int l=5;
+    int b=5;
+
+    printf("S.I is %d", l*b);
+    getch();
+}
+
+6. Write a program to calculate the average of three numbers
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int a=5;
+    int b=5;
+    int c = 5;
+
+    printf("Average is %f", (a+b+c)/3.0);
+    getch();
+}
+
+7. Write a program to calculate the square of a given number
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    int a=5;
+
+    printf("Square of %d is %d", a, a*a);
+    getch();
+}
+
+8. Write a program which takes a character as input and print its ASCII code.
+
+Ans. #include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    char a='a';
+
+    printf("ASCII code of %c is %d", a, a);
+    getch();
+}
+
